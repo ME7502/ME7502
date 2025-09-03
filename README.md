@@ -6,7 +6,7 @@ Software Engineering Student
 
 Having a computer ever since my childhood, I've grown attached to everything IT related. Thus, it comes to no one's surprise that I have decided to pursue a career in this field that I so much cherish. I am currently studying for a degree in software Engineering in EILCO, France, and I'm trying to broaden my knowledge and skills in programming as much as possible.
 
-* 🌍  I'm based in Nantes/Calais, France.
+* 🌍  I'm based in France.
 * ✉️  You can contact me at [mouadelouarti1@gmail.com](mailto:mouadelouarti1@gmail.com)
 
 ### Skills
