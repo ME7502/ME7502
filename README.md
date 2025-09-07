@@ -7,7 +7,7 @@ Hi there 👋, I'm Mouad EL OUARTI
 ---
 
 ### 👨‍💻 About Me
-Since my childhood I’ve been passionate about IT and software development.  
+Ever since my childhood I’ve been passionate about IT and software development.  
 Currently pursuing a **double engineering degree** in **Software Engineering (ENSIAS, Rabat)** and **Computer Science (EILCO, France)**.  
 I am working as a **Software Engineer Apprentice at Capgemini** while building impactful projects in **Full-Stack Development** and **DevOps**.  
 
