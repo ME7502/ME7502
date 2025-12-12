@@ -69,13 +69,6 @@ I am working as a **Software Engineer Apprentice at Capgemini** while building i
 
 ---
 
-### 📈 GitHub Stats
-
-<a href="http://www.github.com/ME7502"><img src="https://github-readme-stats.vercel.app/api?username=ME7502&show_icons=true&count_private=true&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="Mouad's GitHub stats" /></a>  
-<a href="http://www.github.com/ME7502"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ME7502&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>  
-
----
-
 ### 🤝 Let's Connect
 <p align="left"> 
 <a href="https://www.linkedin.com/in/mouad-el-ouarti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0891b2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
