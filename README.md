@@ -42,11 +42,10 @@ I am working as a **Software Engineer Apprentice at Capgemini** while building i
 
 ---
 
-**Fondation Cheikh Zaid – Full-Stack Developer Intern** *(Jul 2022 – Aug 2022, Rabat)*  
+**Fondation Cheikh Zaid – Full-Stack Developer Intern** *(September 2021 – September 2022, Rabat)*  
 - Created the website for a **continuing education center**  
 - Developed admin panel to manage registrations & users  
-- Backend in **PHP (MVC)** with **MySQL** database  
-- Deployed with **XAMPP / phpMyAdmin**  
+- Worked with AngularJS and Spring Boot
 
 ---
 
